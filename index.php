@@ -1,4 +1,4 @@
 <?php
-header("Location: http://www.cablegatesearch.net/search.php");
+header("Location: ./search.php");
 exit;
 ?>
